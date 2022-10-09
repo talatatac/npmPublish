@@ -1,0 +1,18 @@
+{
+  "name": "@talat/is-empty",
+  "version": "1.0.0",
+  "description": "Is empty?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "empty"
+  ],
+  "repository": {
+  "type" : "git",
+  "url" : "https://github.com/talatatac/npmPublish.git"
+  },
+  "author": "Talat Ataç",
+  "license": "ISC"
+}
